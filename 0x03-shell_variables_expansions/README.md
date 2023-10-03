@@ -1,0 +1,1 @@
+this is part of my script writting learning
